@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo Admin static files are served by the backend"
+  }
+}
